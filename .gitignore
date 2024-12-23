@@ -1,0 +1,7 @@
+**.png**
+**.wav**
+venv/
+spectrograms/
+__pycache__/
+extra_normal/
+master/
